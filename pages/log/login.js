@@ -64,7 +64,14 @@ Page({
   
   },
   login:function(){
-    console.log('登录')
+    // wx.navigateTo有返回上一页面
+    wx.navigateTo({
+      url:'/pages/lives/lives'
+    });
+    //wx.redirectTo无返回上一页面
+    // wx.redirectTo({
+    //   url: '/pages/lives/lives'
+    // });
   }
 
 })

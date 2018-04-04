@@ -1,5 +1,2 @@
 <!--pages/lives/lives.wxml-->
 <text>pages/lives/lives.wxml</text>
-<view class="weui-btn-area">
-            <button class="weui-btn" type="primary" bindtap="showTopTips">确定</button>
-        </view>
