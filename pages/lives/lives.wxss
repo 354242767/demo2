@@ -1,1 +1,16 @@
-/* pages/lives/lives.wxss */
+
+#myVideo{
+  width:80%;
+  margin: 10px 10%;
+}
+.weui-cells{
+  margin-top: 80rpx;
+  text-align: left;
+}
+.weui-label{
+  width: 5em;
+}
+
+.page-body-button {
+  margin-bottom: 30rpx;
+}
